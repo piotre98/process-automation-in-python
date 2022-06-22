@@ -1,0 +1,29 @@
+"""
+Wymagania:
+Wypisać logiką boolowską pierwsze i drugie prawo de morgana
+oraz
+rozpisać poszczególne tabele wartości logicznych
+
+Podpowiedzi:
+https://pl.wikipedia.org/wiki/Prawa_De_Morgana
+uzyj formatowania strignow
+
+Przykadowy wygląd:
+~(p ^ q) <=> (~p v ~q)
+
+Dla p = ...
+Oraz q = ...
+Prawa de morgana przyjmuja postac:
+~(... ^ ...) <=> (~... v ~...)
+...kolejne prawa
+a wartosci logiczne wygladaja nastepujaco:
+p = ...
+q = ...
+nie_q = ...
+nie_p = ...
+p_i_q = ...
+nie_p_i_q = ...
+nie_p_lub_nie_q = ...
+"""
+
+
