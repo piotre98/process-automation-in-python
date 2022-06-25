@@ -9,3 +9,5 @@ przypisz go do nowej zmiennej i wypisz na ekran.
 Podpowiedź:
 Skorzystaj z modułu random
 """
+
+lista_kolorow = []

@@ -2,7 +2,7 @@ krystyna = {"kwiatek": "Selenicereus grandiflorus",
            "doniczka": "bardzo duża",
            "ziemia": "5kg",
            "wartosc": 250,
-           "ozdoby": "oplot z rzemini"}
+           "ozdoby": "oplot z rzemieni"}
 
 agnieszka = {"kwiatek": "hiacynt",
              "liczba kwiatów": 5,

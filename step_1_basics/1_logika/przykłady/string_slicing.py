@@ -2,7 +2,7 @@ lorem_ipsum = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do e
 string = "Mój bardzo długi string wrzucę dodatkowo lorem ipsum" + lorem_ipsum
 
 # wyciąganie liter poprzez indeks
-print(string[2])
+print(string[1])
 
 print(string[8:12])
 
